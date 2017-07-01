@@ -1,0 +1,3 @@
+rootProject.name = 'ZhiHuDailyRN'
+
+include ':app'
